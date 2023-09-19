@@ -1,0 +1,27 @@
+#searchButton, #topQueriesButton{
+    background-color: #CDDC39;
+    color: black;
+    font-weight: bold;
+}
+#searchButton:hover, #topQueriesButton:hover{
+    background-color: #C0CA33;
+}
+
+.navbar{
+    background-color: #27292D;
+}
+
+nav{
+    border-bottom: 1px solid white;
+}
+
+h5{
+
+    overflow:hidden; 
+}
+
+nav img{
+    margin: 5px;
+    width: 30px;
+    height: 30px;
+}
